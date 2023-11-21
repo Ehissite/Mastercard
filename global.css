@@ -1,0 +1,53 @@
+
+ul{
+  list-style: none;
+}
+
+.mast-card{
+  color: orangered;
+}
+.txt1{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.txt2{
+  color: black;
+}
+.txt3{
+  font-size: 60px;
+  color: orangered;
+}
+.hero{
+background-image: url("assets/mastercard-cards-1300x650.jpg");
+/*background-repeat: no-repeat;*/
+  height: 600px;
+  padding-left: 100px;
+}
+.hero-txt{
+  color: white;
+  padding-top: 230px;
+  font-family: fantasy;
+}
+.home{
+  background-color: gray;
+}
+.r-content{
+  padding-left: 100px;
+}
+.card-group{
+  width: 80%;
+  margin-left: 50px;
+}
+.home-txt{
+  padding-left: 100px;
+  padding-top: 20px;
+  height: 80px;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: white;
+}
+.need, .hdr{
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
